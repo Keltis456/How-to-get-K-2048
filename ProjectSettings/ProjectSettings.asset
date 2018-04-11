@@ -123,7 +123,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 1.16
+  bundleVersion: 1.17
   preloadedAssets: []
   metroInputSource: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -155,7 +155,7 @@ PlayerSettings:
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 2
+  AndroidBundleVersionCode: 17
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -229,7 +229,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: E:/Downloads/2048-unity-master/2048-unity-master/Keltis.keystore
+  AndroidKeystoreName: C:/Users/Nikita/Documents/MEGAsync Downloads/Keltis.keystore
   AndroidKeyaliasName: keltis
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
